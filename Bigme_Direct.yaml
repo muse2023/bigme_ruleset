@@ -1,0 +1,8 @@
+payload:
+## >> 阿里云
+  - DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+## >> 向日葵  
+  - DOMAIN,checkip.synology.com,DIRECT
+  - DOMAIN,ddns.synology.com,DIRECT
+## >> 微软检测网络连接  
+  - DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
