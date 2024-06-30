@@ -1,7 +1,7 @@
 payload:
-## >> Steam Community
+  # 必须代理- 
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,bigme.pro
   - DOMAIN-SUFFIX,mypikpak.com
-  
+  - DOMAIN-SUFFIX,v2ex.com
