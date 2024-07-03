@@ -1,12 +1,13 @@
 payload:
-## >> 阿里云
+  # 阿里云
   - DOMAIN-SUFFIX,aliyuncs.com
-## >> 向日葵  
+  - DOMAIN-SUFFIX,aliyun.com  
+  # 向日葵  
   - DOMAIN,checkip.synology.com
   - DOMAIN,ddns.synology.com
-## >> 微软检测网络连接  
+  # 微软检测网络连接  
   - DOMAIN-SUFFIX,msftconnecttest.com
-  # 全球直连-  
+  # 内网设备  
   - DOMAIN-SUFFIX,acl4.ssr
   - DOMAIN-SUFFIX,ip6-localhost
   - DOMAIN-SUFFIX,ip6-loopback
@@ -38,5 +39,4 @@ payload:
   - DOMAIN-SUFFIX,routerlogin.com
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,zte.home
-  - DOMAIN-SUFFIX,tplogin.cn
-  # -全球直连    
+  - DOMAIN-SUFFIX,tplogin.cn 
