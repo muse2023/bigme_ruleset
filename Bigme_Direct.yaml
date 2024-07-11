@@ -39,4 +39,7 @@ payload:
   - DOMAIN-SUFFIX,routerlogin.com
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,zte.home
-  - DOMAIN-SUFFIX,tplogin.cn 
+  - DOMAIN-SUFFIX,tplogin.cn
+  # CN后缀全直连  
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,-cn
